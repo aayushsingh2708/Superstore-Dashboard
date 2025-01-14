@@ -62,7 +62,7 @@ To clone the repository, follow these steps:
 2. Navigate to the directory where you want to save the project.
 3. Run the following command:
    ```bash
-   git clone https://github.com/your-username/superstore-dashboard.git
+   git clone https://github.com/aayushsingh2708/Superstore-Dashboard.git
 
 ## Notes
 - **Data Accuracy**: Ensure the dataset is up-to-date to maintain accurate analysis.
