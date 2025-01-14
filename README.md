@@ -1,4 +1,5 @@
 # Superstore Dashboard
+![Dashboard Preview](https://github.com/aayushsingh2708/Superstore-Dashboard/blob/main/Data/Dashboard.png)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
