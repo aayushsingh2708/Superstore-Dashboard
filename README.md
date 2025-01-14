@@ -64,8 +64,6 @@ To clone the repository, follow these steps:
    ```bash
    git clone https://github.com/your-username/superstore-dashboard.git
 
-
-
 ## Notes
 - **Data Accuracy**: Ensure the dataset is up-to-date to maintain accurate analysis.
 - **Customization**: The dashboard can be customized for additional metrics or visualizations.
