@@ -6,7 +6,8 @@
 3. [Prerequisites](#prerequisites)
 4. [Steps](#steps)
 5. [Installation Instructions](#installation-instructions)
-6. [Notes](#notes)
+6. [Clone the Repository](#clone-the-repository)
+7. [Notes](#notes)
 
 ---
 
@@ -53,6 +54,17 @@ Follow these steps to use and interact with the dashboard:
 3. Enable macros and Power Query (if required).
 4. Load or update the Superstore Dataset if modifications are needed.
 5. Interact with slicers, charts, and tables to explore data insights.
+   
+## Clone the Repository
+To clone the repository, follow these steps:
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to save the project.
+3. Run the following command:
+   ```bash
+   git clone https://github.com/your-username/superstore-dashboard.git
+
+
 
 ## Notes
 - **Data Accuracy**: Ensure the dataset is up-to-date to maintain accurate analysis.
